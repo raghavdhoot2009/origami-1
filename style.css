@@ -1,0 +1,17 @@
+h1 {
+    color: brown;
+}
+
+
+.header{
+background-color:cadetblue;
+display:flex;
+justify-content:flex-start;
+}
+
+
+
+.footer{
+display: flex;
+justify-content:first baseline;
+}
